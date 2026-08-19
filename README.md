@@ -17,3 +17,8 @@ Currently building an Arabic-first platform that helps ordinary users to navigat
 15+ years in law and parliamentary affairs, including 6 years focused on the legislative process. Currently a PhD candidate at Helwan University, researching comparative constitutional judicial self-restraint between the Egyptian Supreme Constitutional Court and the U.S. Supreme Court.
 
 My path into legal technology started with databases and document automation, then moved into NLP, Python, and AI-assisted legal workflows — now I build the tools I wished I had.
+
+## Links
+
+- [DilyCode.com](https://dilycode.com)
+- [LinkedIn](https://www.linkedin.com/in/john-beniamin)
