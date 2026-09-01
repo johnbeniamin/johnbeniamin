@@ -8,7 +8,6 @@ Currently building an Arabic-first platform that helps ordinary users to navigat
 
 - **Egyptian Law Corpus** — Structured Markdown corpus of Egyptian Cybercrime Law 175/2018, built for NLP and RAG applications.
 
-- **Legal AI Agent** — A Goose-based local AI agent for Egyptian law with four operating modes: counsel, advocate, analyst, and drafter.
 
 - **DilyCode.com** — Personal legal-tech platform exploring the intersection of law, legislation, and technology.
 
